@@ -54,7 +54,8 @@
 
 | Project | What I did | Stack |
 |---|---|---|
-| **Matchmaking platform** (88ninety client) | Subscription platform with Stripe payments, webhooks and admin tools | ASP.NET Core · Clean Architecture · SQL Server · Stripe |
+| **[Pious Hearts](https://pioushearts.com/)** | Islamic marriage platform focused on privacy and safety, with Stripe subscriptions, webhooks and admin tools | ASP.NET Core · Clean Architecture · SQL Server · Stripe |
+| **[Sacred Bond](https://sacredbond.org/)** | Islamic marriage platform for serious, values-based matches, with Stripe payments and REST APIs | ASP.NET Core · Clean Architecture · DDD · Stripe |
 | **Hospital Storage Management System** | Warehouse & inventory system for hospital supplies | ASP.NET Core · React |
 | **Employee Portal** | Projects, timesheets, billing rates and profitability reports (DDD) | ASP.NET Core · EF Core · React · SQL Server |
 | **SaaS backends** (CodoTrist) | Migrating Firebase apps (dental clinics, fuel stations) to a REST backend | Node.js · Express · Prisma · PostgreSQL |
